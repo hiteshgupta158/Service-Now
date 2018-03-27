@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Maestro Request" max_length="40" name="x_205916_maestro_r_maestro_request" type="collection">
+        <element default="20" display="true" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
